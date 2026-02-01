@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="URLFileDownloader/URLFileDownloader.vcxproj" Id="5c574f4e-914f-405e-a246-977735773fa7" />
+</Solution>
